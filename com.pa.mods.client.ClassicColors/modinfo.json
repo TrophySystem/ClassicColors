@@ -11,7 +11,7 @@
     "forum": "https://forums.uberent.com/threads/rel-classiccolors.63284/",
     "id": "ClassicColors",
     "priority": 100,
-    "enabled": false,
+    "enabled": true,
     "content_id": "com.uberent.pa.mods.client.ClassicColors",
     "store_id": "com.pahub.content.plugin.store.mod.client"
 }
